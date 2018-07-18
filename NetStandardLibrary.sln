@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetStandardLibrary", "NetSt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp_NET_Core", "ConsoleApp_NET_Core\ConsoleApp_NET_Core.csproj", "{6478CE35-6511-4AD7-959C-FD68251F8C9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp_4.7.x", "ConsoleApp_4.7.x\ConsoleApp_4.7.x.csproj", "{D21A8565-3D84-4F71-B55E-62CC07221085}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6478CE35-6511-4AD7-959C-FD68251F8C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6478CE35-6511-4AD7-959C-FD68251F8C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6478CE35-6511-4AD7-959C-FD68251F8C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D21A8565-3D84-4F71-B55E-62CC07221085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D21A8565-3D84-4F71-B55E-62CC07221085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D21A8565-3D84-4F71-B55E-62CC07221085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D21A8565-3D84-4F71-B55E-62CC07221085}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
